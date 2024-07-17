@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<PassiveDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PassiveDesc ID="66717170">
+    <Name>速战速决4</Name>
+    <Desc>速度骰子+1
+第四幕后速度骰子额外+1
+若场上有敌人情感等级不低于4则速度骰子+1
+无法因自身情感等级提升而获得速度骰子(唯一被动)</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="66717171">
+    <Name>调率者</Name>
+    <Desc>每一幕开始时抽取3张书页并回复6点光芒
+若场上的敌人不少于1名则使随机一名敌人当前回合的骰子威力增减无效
+若场上仅有1名敌人则对其施加1层"虚弱" "束缚"和"破绽"</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="66717172">
+    <Name>处刑者</Name>
+    <Desc>每一幕开始时抽取3张书页并回复6点光芒
+每一幕开始时使全部我方角色获得1层"强壮"</Desc>
+  </PassiveDesc>
+<!--Enemy passives-->
+  <PassiveDesc ID="66717173">
+    <Name>首脑-调率者</Name>
+    <Desc>每一幕开始时移除手中的书页并将意图使用的书页置入手中
+每一幕开始时回复所有光芒
+若"珍娜"存活则速度骰子+1
+若舞台为语言层则光芒上限设为9且速度骰子+1并使生命上限+100混乱上限+50
+若舞台为哲学层则所有骰子威力+1并将速度骰子的最大值设为8</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="66717174">
+    <Name>爪牙-处刑者</Name>
+    <Desc>每一幕开始时移除手中的书页并将意图使用的书页置入手中
+每一幕开始时回复所有光芒
+若"珍娜"存活则速度骰子+1
+若舞台为总类层则光芒上限设为9且速度骰子+1并使生命上限+100混乱上限+50
+若舞台为哲学层则所有骰子威力+1并将速度骰子的最大值设为8
+每一幕开始时若指定司书存活则获得1层"忍耐"和"强壮"</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="66717175">
+    <Name>珍娜</Name>
+    <Desc>核心书页与战斗书页无法更改
+每一幕开始时将两张不同的"震击"置入手中</Desc>
+  </PassiveDesc>
+  <PassiveDesc ID="66717176">
+    <Name>巴拉尔</Name>
+    <Desc>核心书页与战斗书页无法更改</Desc>
+  </PassiveDesc>
+</PassiveDescRoot>

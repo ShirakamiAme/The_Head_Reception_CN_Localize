@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardAbilityDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BattleCardAbility ID="ZenaShockwave">
+    <Desc>[使用时] 摧毁本书页并在2回合后重新置入手中</Desc>
+ </BattleCardAbility>
+  <BattleCardAbility ID="ZinnerShockwave">
+    <Desc>[使用时] 摧毁本书页并在2回合后置入手中</Desc>
+    <Desc>[使用时]这一幕中使所有我方角色获得3层[守护]与[振奋]</Desc>
+  </BattleCardAbility>
+</BattleCardAbilityDescRoot>

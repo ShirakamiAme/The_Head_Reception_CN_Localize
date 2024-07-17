@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<localize xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <text id="dropbook_Arbiter">调率者之书</text>
+  <text id="dropbook_Claw">爪牙之书</text>
+</localize>

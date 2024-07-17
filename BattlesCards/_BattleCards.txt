@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleCardDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <cardDescList>
+    <BattleCardDesc ID="66717171">
+      <LocalizedName>锁</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="66717172">
+      <LocalizedName>妖灵</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="66717173">
+      <LocalizedName>震击</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="66717174">
+      <LocalizedName>柱</LocalizedName>
+    </BattleCardDesc>
+    <BattleCardDesc ID="66717175">
+      <LocalizedName>链</LocalizedName>
+    </BattleCardDesc>
+  </cardDescList>
+</BattleCardDescRoot>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookDescRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <bookDescList>
+    <BookDesc BookID="66717174">
+      <BookName>珍娜之页</BookName>
+      <TextList>
+        <Desc>这里本该写些什么的......但是因为想不出来所以不写了!(原文也没有所以不用切语言了--汉化作者)</Desc>
+      </TextList>
+      <PassiveList />
+    </BookDesc>
+    <BookDesc BookID="66717173">
+      <BookName>巴拉尔之页</BookName>
+      <TextList>
+        <Desc>这里本该写些什么的......但是因为想不出来所以不写了!(原文也没有所以不用切语言了--汉化作者)</Desc>
+      </TextList>
+      <PassiveList />
+    </BookDesc>
+    <BookDesc BookID="66717171">
+      <BookName>调率者之页</BookName>
+      <TextList>
+        <Desc>这里本该写些什么的......但是因为想不出来所以不写了!(原文也没有所以不用切语言了--汉化作者)</Desc>
+      </TextList>
+      <PassiveList />
+    </BookDesc>
+    <BookDesc BookID="66717172">
+      <BookName>爪牙之页</BookName>
+      <TextList>
+        <Desc>这里本该写些什么的......但是因为想不出来所以不写了!(原文也没有所以不用切语言了--汉化作者)</Desc>
+      </TextList>
+      <PassiveList />
+    </BookDesc>
+  </bookDescList>
+</BookDescRoot>

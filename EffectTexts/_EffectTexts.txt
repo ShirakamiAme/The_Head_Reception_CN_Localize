@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BattleEffectTextRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <effectTextList>
+    <BattleEffectText ID="ClawExclusive">
+      <Name>爪牙专用战斗书页</Name>
+      <Desc>仅限装备爪牙之页的角色使用。</Desc>
+    </BattleEffectText>
+    <BattleEffectText ID="ArbiterExclusive">
+      <Name>调率者专用战斗书页</Name>
+      <Desc>仅限装备调率者之页的角色使用。</Desc>
+    </BattleEffectText>
+  </effectTextList>
+</BattleEffectTextRoot>
